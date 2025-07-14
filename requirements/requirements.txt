@@ -1,0 +1,7 @@
+# Go version requirement
+go 1.21
+
+# Dependencies
+github.com/gorilla/mux v1.8.0         # HTTP router for REST API
+github.com/google/uuid v1.3.0         # UUIDs for node/edge identifiers
+github.com/olekukonko/tablewriter v0.0.5  # CLI table formatting (optional)
